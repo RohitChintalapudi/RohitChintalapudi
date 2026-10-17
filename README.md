@@ -1,18 +1,263 @@
-# 💫 About Me:
-🔭 I’m currently working on WebSockets & real-time applications<br>👯 I’m looking to collaborate on full-stack projects & real-time apps<br>🤝 I’m looking for help with scaling real-time systems & advanced backend concepts<br>🌱 I’m currently learning WebSockets, system design, and performance optimization<br>💬 Ask me about full stack development<br>⚡ Fun fact: Music + coding hits different 🎧💻
 
+<!-- ==================== HERO ==================== -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohit-chintalapudi-5454ba36a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RohitChint45998) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohit.chintalapudi.work@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RohitChintalapudi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=RohitChintalapudi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RohitChintalapudi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,35:2575FC,70:00C6FF,100:00F5A0&text=Rohit%20Chintalapudi&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20REAL-TIME%20ENGINEERING&descSize=13&descAlignY=58&animation=fadeIn" alt="Rohit Chintalapudi"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&height=50&lines=Building+beautiful+digital+experiences;Crafting+real-time+web+applications;Exploring+WebSockets+%26+System+Design;Learning%2C+Building%2C+Growing" alt="Animated introduction"/>
+
+<br/><br/>
+
+<a href="https://github.com/RohitChintalapudi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/rohit-chintalapudi-5454ba36a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/RohitChint45998">
+<img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="mailto:rohit.chintalapudi.work@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=RohitChintalapudi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ==================== ABOUT ME ==================== -->
+
+
+<!-- ==================== ABOUT ME ==================== -->
+
+<div align="center">
+
+# ✦ ABOUT ME ✦
+
+### Building intelligent products. Engineering real-time experiences.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FFFF" width="60%" alt="Cyan divider"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Computer_Science_Undergraduate-000000?style=for-the-badge&logo=academia&logoColor=00FFFF" alt="Computer Science Undergraduate"/>
+<img src="https://img.shields.io/badge/CGPA-9.65%2F10-000000?style=for-the-badge&labelColor=000000&color=00FFFF" alt="CGPA 9.65 out of 10"/>
+<img src="https://img.shields.io/badge/AI_%26_Full_Stack_Engineering-000000?style=for-the-badge&logo=codeforces&logoColor=00FFFF" alt="AI and Full Stack Engineering"/>
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Hey, I'm Rohit.
+
+I'm a Computer Science undergraduate at **SRM University AP**, passionate about engineering scalable full-stack applications, cross-platform mobile experiences, and AI-powered software systems.
+
+My experience spans **AI product engineering and software development**, where I've worked on LLM-powered learning platforms, semantic code intelligence, REST APIs, and real-time communication systems.
+
+I enjoy going beyond building features — understanding system architecture, optimizing performance, and creating products that solve meaningful problems.
+
+**Currently focused on:**
+
+- Real-time applications and WebSocket architecture.
+- AI agents, RAG pipelines, and LLM orchestration.
+- Scalable backend systems and API performance.
+- Full-stack and cross-platform mobile development.
+
+</td>
+<td width="40%" valign="top">
+
+<div align="center">
+
+### QUICK HIGHLIGHTS
+
+<br/>
+
+<img src="https://img.shields.io/badge/9.65%2F10-Academic_CGPA-000000?style=for-the-badge&labelColor=000000&color=00FFFF" alt="Academic CGPA"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/450%2B-Coding_Problems_Solved-000000?style=for-the-badge&labelColor=000000&color=00FFFF" alt="500 plus coding problems solved"/>
+
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GSSoC_2026-Open_Source-000000?style=for-the-badge&labelColor=000000&color=00FFFF" alt="GirlScript Summer of Code 2026"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FFFF" width="60%" alt="Cyan divider"/>
+
+*I believe great software lives at the intersection of thoughtful engineering, useful ideas, and continuous learning.*
+
+</div>
+
+---
+
+<!-- ==================== TECHNOLOGIES ==================== -->
+
+
+<!-- ==================== TECH STACK ==================== -->
+
+<div align="center">
+
+# ✦ MY TECH STACK ✦
+
+*The technologies I use to build, connect, and innovate.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6A11CB,30:2575FC,65:00C6FF,100:F15BB5" width="75%" alt="Colorful divider"/>
+
+</div>
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript ES6+"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+### 🎨 Frontend & Mobile Development
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+</p>
+
+### ⚙️ Backend & API Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs"/>
+<img src="https://img.shields.io/badge/WebSockets-6A11CB?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets"/>
+<img src="https://img.shields.io/badge/Better_Auth-111827?style=for-the-badge&logo=auth0&logoColor=white" alt="Better Auth"/>
+<img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=111111" alt="Swagger and OpenAPI"/>
+</p>
+
+### 🗄️ Databases & Vector Search
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PGVector"/>
+</p>
+
+### 🤖 AI, LLMs & Intelligent Applications
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq API"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Retrieval-Augmented Generation"/>
+</p>
+
+### 🛠️ Developer Tools & Cloud
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+</p>
+
+### 🧠 Computer Science Fundamentals
+
+<p>
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-6A11CB?style=for-the-badge" alt="Data Structures and Algorithms"/>
+<img src="https://img.shields.io/badge/Object--Oriented_Programming-2575FC?style=for-the-badge" alt="Object-Oriented Programming"/>
+<img src="https://img.shields.io/badge/Operating_Systems-00A896?style=for-the-badge" alt="Operating Systems"/>
+<img src="https://img.shields.io/badge/DBMS-F15BB5?style=for-the-badge" alt="Database Management Systems"/>
+</p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6A11CB,30:2575FC,65:00C6FF,100:F15BB5" width="75%" alt="Colorful divider"/>
+
+</div>
+
+
+<!-- ==================== GITHUB STATS ==================== -->
+
+
+<!-- ==================== GITHUB SPACE ==================== -->
+
+<div align="center">
+
+## ✦ MY GITHUB SPACE ✦
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FFFF" width="65%" alt="Cyan divider"/>
+
+*Every contribution is a step forward.*
+
+<br/>
+
+<a href="https://github.com/RohitChintalapudi">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RohitChintalapudi&show_icons=true&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/RohitChintalapudi">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitChintalapudi&layout=compact&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF" alt="Most used languages"/>
+</a>
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=RohitChintalapudi&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&currStreakNum=00FFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FFFF" width="65%" alt="Cyan divider"/>
+
+</div>
+
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+
+<div align="center">
+
+## ✦ LET'S BUILD SOMETHING ✦
+
+I'm always open to meeting developers, exchanging ideas, and collaborating on exciting full-stack projects.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/rohit-chintalapudi-5454ba36a/">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:rohit.chintalapudi.work@gmail.com">
+<img src="https://img.shields.io/badge/SAY_HELLO-FF4B6E?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=RohitChintalapudi&style=for-the-badge&color=6A11CB&label=VISITORS" alt="Profile visitors"/>
+
+<br/><br/>
+
+### *Dream it. Design it. Build it.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F5A0,35:00C6FF,70:2575FC,100:6A11CB" alt="Colorful footer"/>
+
+</div>
