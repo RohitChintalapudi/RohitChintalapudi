@@ -5,10 +5,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,35:2575FC,70:00C6FF,100:00F5A0&text=Rohit%20Chintalapudi&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20REAL-TIME%20ENGINEERING&descSize=13&descAlignY=58&animation=fadeIn" alt="Rohit Chintalapudi"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&height=50&lines=Building+beautiful+digital+experiences;Crafting+real-time+web+applications;Exploring+WebSockets+%26+System+Design;Learning%2C+Building%2C+Growing" alt="Animated introduction"/>
-
 <br/><br/>
 
 <a href="https://github.com/RohitChintalapudi">
@@ -37,68 +33,13 @@
 
 # ✦ ABOUT ME ✦
 
-### Building intelligent products. Engineering real-time experiences.
+I'm a Computer Science undergraduate at **SRM University AP** with a **9.65/10 CGPA**, passionate about full-stack development and AI-powered applications.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FFFF" width="60%" alt="Cyan divider"/>
+Experienced in building scalable backend APIs, real-time communication systems, and LLM-powered products through internships and projects.
 
-<br/>
+Currently exploring **WebSockets, AI agents, RAG pipelines, and system design**.
 
-<img src="https://img.shields.io/badge/Computer_Science_Undergraduate-000000?style=for-the-badge&logo=academia&logoColor=00FFFF" alt="Computer Science Undergraduate"/>
-<img src="https://img.shields.io/badge/CGPA-9.65%2F10-000000?style=for-the-badge&labelColor=000000&color=00FFFF" alt="CGPA 9.65 out of 10"/>
-<img src="https://img.shields.io/badge/AI_%26_Full_Stack_Engineering-000000?style=for-the-badge&logo=codeforces&logoColor=00FFFF" alt="AI and Full Stack Engineering"/>
-
-</div>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### Hey, I'm Rohit.
-
-I'm a Computer Science undergraduate at **SRM University AP**, passionate about engineering scalable full-stack applications, cross-platform mobile experiences, and AI-powered software systems.
-
-My experience spans **AI product engineering and software development**, where I've worked on LLM-powered learning platforms, semantic code intelligence, REST APIs, and real-time communication systems.
-
-I enjoy going beyond building features — understanding system architecture, optimizing performance, and creating products that solve meaningful problems.
-
-**Currently focused on:**
-
-- Real-time applications and WebSocket architecture.
-- AI agents, RAG pipelines, and LLM orchestration.
-- Scalable backend systems and API performance.
-- Full-stack and cross-platform mobile development.
-
-</td>
-<td width="40%" valign="top">
-
-<div align="center">
-
-### QUICK HIGHLIGHTS
-
-<br/>
-
-<img src="https://img.shields.io/badge/9.65%2F10-Academic_CGPA-000000?style=for-the-badge&labelColor=000000&color=00FFFF" alt="Academic CGPA"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/450%2B-Coding_Problems_Solved-000000?style=for-the-badge&labelColor=000000&color=00FFFF" alt="500 plus coding problems solved"/>
-
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/GSSoC_2026-Open_Source-000000?style=for-the-badge&labelColor=000000&color=00FFFF" alt="GirlScript Summer of Code 2026"/>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FFFF" width="60%" alt="Cyan divider"/>
-
-*I believe great software lives at the intersection of thoughtful engineering, useful ideas, and continuous learning.*
+*Building innovative solutions, one project at a time.*
 
 </div>
 
