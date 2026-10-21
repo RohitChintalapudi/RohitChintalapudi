@@ -1,136 +1,217 @@
+<!-- ==================== HERO ==================== -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Rohit+Chintalapudi+%F0%9F%91%8B;Full-Stack+Developer;Real-Time+Systems+Enthusiast;Always+Shipping+Something+New" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,35:2575FC,70:00C6FF,100:00F5A0&text=Rohit%20Chintalapudi&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20REAL-TIME%20ENGINEERING&descSize=13&descAlignY=58&animation=fadeIn" alt="Rohit Chintalapudi"/>
 
-### Full-Stack Developer · Real-Time Systems Enthusiast 🚀
+<br/>
 
-<p>I build fast, reliable web applications — and I'm happiest when data flows in real time.</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00C6FF&center=true&vCenter=true&width=620&lines=Building+real-time+systems+%26+AI-powered+apps;React+%7C+Node.js+%7C+WebSockets+%7C+LLMs;Always+shipping%2C+always+learning" alt="Typing SVG"/>
 
-<img src="https://komarev.com/ghpvc/?username=RohitChintalapudi&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views" />
+<br/>
+
+<a href="https://github.com/RohitChintalapudi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/rohit-chintalapudi-5454ba36a/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/RohitChint45998">
+<img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="mailto:rohit.chintalapudi.work@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
 ---
 
-<h2 align="center">🧑‍💻 About Me</h2>
+<!-- ==================== ABOUT ME ==================== -->
 
-<p align="center">
-  🔭 Currently building <b>WebSockets & real-time applications</b><br/>
-  🌱 Learning <b>system design</b>, <b>WebSockets</b>, and <b>performance optimization</b><br/>
-  👯 Open to collaborating on <b>full-stack projects & real-time apps</b><br/>
-  🤝 Looking for help with <b>scaling real-time systems & advanced backend concepts</b><br/>
-  💬 Ask me about <b>full-stack development</b><br/>
-  ⚡ Fun fact: <b>music + coding hits different</b> 🎧💻
-</p>
+<div align="center">
 
----
+# ✦ ABOUT ME ✦
 
-<h2 align="center">🌐 Connect with Me</h2>
+I'm a Computer Science undergraduate at **SRM University AP** with a **9.65/10 CGPA**, passionate about full-stack development and AI-powered applications.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohit-chintalapudi-5454ba36a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/RohitChint45998" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:rohit.chintalapudi.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/RohitChintalapudi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+Experienced in building scalable backend APIs, real-time communication systems, and LLM-powered products through internships and projects.
+
+Currently exploring **WebSockets, AI agents, RAG pipelines, and system design**.
+
+*Building innovative solutions, one project at a time.*
+
+</div>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<!-- ==================== WHAT I'M UP TO ==================== -->
 
-<p align="center"><b>Languages</b></p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+## ✦ WHAT I'M UP TO ✦
 
-<p align="center"><b>Frontend</b></p>
+🔭 Building **real-time architectures** — sockets, pub/sub, and live sync<br/>
+🧠 Sharpening **system design** fundamentals and backend performance<br/>
+🛠️ Shipping **full-stack projects** that stay fast under real load<br/>
+⚡ Fun fact: **music + coding hits different** 🎧💻
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-<p align="center"><b>Backend</b></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-</p>
-
-<p align="center"><b>Databases</b></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-<p align="center"><b>Tools & Platforms</b></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-</p>
+</div>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- ==================== TECH STACK ==================== -->
+
+<div align="center">
+
+# ✦ MY TECH STACK ✦
+
+*The technologies I use to build, connect, and innovate.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6A11CB,30:2575FC,65:00C6FF,100:F15BB5" width="75%" alt="Colorful divider"/>
+
+</div>
+
+<h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=RohitChintalapudi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Rohit's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RohitChintalapudi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript ES6+"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=RohitChintalapudi&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
+<h3 align="center">🎨 Frontend & Mobile Development</h3>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RohitChintalapudi&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
+
+<h3 align="center">⚙️ Backend & API Engineering</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs"/>
+<img src="https://img.shields.io/badge/WebSockets-6A11CB?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets"/>
+<img src="https://img.shields.io/badge/Better_Auth-111827?style=for-the-badge&logo=auth0&logoColor=white" alt="Better Auth"/>
+<img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=111111" alt="Swagger and OpenAPI"/>
+</p>
+
+<h3 align="center">🗄️ Databases & Vector Search</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PGVector"/>
+</p>
+
+<h3 align="center">🤖 AI, LLMs & Intelligent Applications</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq API"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Retrieval-Augmented Generation"/>
+</p>
+
+<h3 align="center">🛠️ Developer Tools & Cloud</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+</p>
+
+<h3 align="center">🧠 Computer Science Fundamentals</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-6A11CB?style=for-the-badge" alt="Data Structures and Algorithms"/>
+<img src="https://img.shields.io/badge/Object--Oriented_Programming-2575FC?style=for-the-badge" alt="Object-Oriented Programming"/>
+<img src="https://img.shields.io/badge/Operating_Systems-00A896?style=for-the-badge" alt="Operating Systems"/>
+<img src="https://img.shields.io/badge/DBMS-F15BB5?style=for-the-badge" alt="Database Management Systems"/>
+</p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6A11CB,30:2575FC,65:00C6FF,100:F15BB5" width="75%" alt="Colorful divider"/>
+
+</div>
 
 ---
 
-<h2 align="center">🚀 What I'm Up To</h2>
+<!-- ==================== GITHUB SPACE ==================== -->
 
-<p align="center">
-  🔭 Deep-diving into <b>real-time architectures</b> — sockets, pub/sub, and live sync<br/>
-  🧠 Sharpening <b>system design</b> fundamentals and backend performance<br/>
-  🛠️ Building full-stack projects that ship and scale<br/>
-  🎯 Goal: <b>design systems that stay fast under real load</b>
-</p>
+<div align="center">
+
+## ✦ MY GITHUB SPACE ✦
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FFFF" width="65%" alt="Cyan divider"/>
+
+*Every contribution is a step forward.*
+
+<br/>
+
+<a href="https://github.com/RohitChintalapudi">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RohitChintalapudi&show_icons=true&hide_border=true&bg_color=000000&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/RohitChintalapudi">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitChintalapudi&layout=compact&hide_border=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF" alt="Most used languages"/>
+</a>
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=RohitChintalapudi&hide_border=true&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&currStreakNum=00FFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=RohitChintalapudi&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&area_color=00FFFF&hide_border=true&custom_title=Contribution+Activity" alt="Contribution activity graph"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FFFF" width="65%" alt="Cyan divider"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Thanks for stopping by — let's build something real-time.</i>
-</p>
+<!-- ==================== CONNECT ==================== -->
 
-<p align="center">
-  <a href="mailto:rohit.chintalapudi.work@gmail.com">
-    <img src="https://img.shields.io/badge/Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer wave" />
-</p>
+## ✦ LET'S BUILD SOMETHING ✦
+
+I'm always open to meeting developers, exchanging ideas, and collaborating on exciting full-stack projects.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/rohit-chintalapudi-5454ba36a/">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:rohit.chintalapudi.work@gmail.com">
+<img src="https://img.shields.io/badge/SAY_HELLO-FF4B6E?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=RohitChintalapudi&style=for-the-badge&color=6A11CB&label=VISITORS" alt="Profile visitors"/>
+
+<br/><br/>
+
+### *Dream it. Design it. Build it.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F5A0,35:00C6FF,70:2575FC,100:6A11CB" alt="Colorful footer"/>
+
+</div>
