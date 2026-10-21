@@ -90,3 +90,20 @@
   <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=RohitChintalapudi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Rohit's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RohitChintalapudi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=RohitChintalapudi&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RohitChintalapudi&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" />
+</p>
