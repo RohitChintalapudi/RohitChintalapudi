@@ -107,3 +107,30 @@
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RohitChintalapudi&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
+
+---
+
+<h2 align="center">🚀 What I'm Up To</h2>
+
+<p align="center">
+  🔭 Deep-diving into <b>real-time architectures</b> — sockets, pub/sub, and live sync<br/>
+  🧠 Sharpening <b>system design</b> fundamentals and backend performance<br/>
+  🛠️ Building full-stack projects that ship and scale<br/>
+  🎯 Goal: <b>design systems that stay fast under real load</b>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by — let's build something real-time.</i>
+</p>
+
+<p align="center">
+  <a href="mailto:rohit.chintalapudi.work@gmail.com">
+    <img src="https://img.shields.io/badge/Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer wave" />
+</p>
